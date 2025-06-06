@@ -44,14 +44,13 @@ Whether it’s designing a backend, building a quant model, or debugging an asyn
 ## 📡 Links
 
 * 🌐 [leonardocaliva.com](https://leonardocaliva.com)
-* 💻 [Blog & Portfolio](https://leonardocaliva.com/blog)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/leonardoprimero/)
 * 🧪 [GitHub Projects](https://github.com/leonardoprimero)
 
 ---
 
 ## 📈 GitHub Activity
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoprimero\&show_icons=true\&theme=dracula\&count_private=true\&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoprimero\&layout=compact\&theme=dracula)
 
@@ -61,4 +60,5 @@ Whether it’s designing a backend, building a quant model, or debugging an asyn
 
 I don’t offer solutions — I build them with you. Whether you're scaling up, cleaning data, or crafting something from scratch, I’ll bring the code, logic and obsession with detail.
 
-**Leonardo I** ([@leonardoprimero](https://github.com/leonardoprimero){\:target="\_blank"})
+**Leonardo I** (a.k.a. [@leonardoprimero](https://github.com/leonardoprimero))
+
